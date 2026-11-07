@@ -1,6 +1,16 @@
-# 💫 About Me:
-I’m currently working on Building full-stack web applications using the MERN stack, focusing on authentication &  database integration.<br>I’m looking to collaborate on Open-source & Machine Learning Projects.<br>I’m currently learning Advanced problem-solving skills in Java.<br>I code in Java ,C ,C++ ,Python.<br>I enjoy turning complex problems into simple, elegant solutions—and I love combining creativity with code!<br>
-
+# 💫 Who is She?
+Hie !<br>
+Riya has strong DSA fundamentals and proficiency in Java, she brings hands-on MERN stack development experience and a solid grounding in Machine Learning, with prior and ongoing contributions to open-source through GSSoC.<br>
+ 
+She strives to grow as a versatile learner who balances excellence in academics with active participation in technical events, contributing creativity, adaptability, and value to every opportunity she takes up, while continuously learning and working on user-centric projects.<br>
+ 
+Her Tech stack includes but not limited to :<br>
+ Lang: Java, Python, C, C++, JavaScript<br>
+ Web: MERN Stack (MongoDB, Express.js, React.js, Node.js), REST APIs<br>
+ ML: CNN, Regression Models, Neural Networks, Supervised Learning<br>
+ Tools: Git, GitHub, Postman, Firebase, VS Code, Google Colab<br>
+ 
+For reaching out, connect via LinkedIn or email at: kar.riya0927@gmail.com<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/riya-kar-279884336) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kar.riya0927@gmail.com) 
